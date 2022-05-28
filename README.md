@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ashishnaicker
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently working as a web developer
+- 💞️ I’m looking to collaborate on ASP.NET or LAMP
+- 📫 ashishnaicker@gmail.com
